@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "furl": "disney",
+    "nombre": "Disney+",
+    "descripcion": "Disney+ es una empresa de servicios de comunicación y entretenimiento que se dedica a la producción de contenido de entretenimiento para televisión, radio y televisión por cable.",
+    "img": "img-pf.webp",
+    "url": "https://www.disneyplus.com/"
+  },
+  {
+    "id": 2,
+    "furl": "carrito",
+    "nombre": "Carrito de compras",
+    "descripcion": "Carrito de compras es una plataforma de e-commerce que permite a los usuarios comprar productos en línea.",
+    "img": "carrito.jpg",
+    "url": "https://www.carrito.com/"
+  },
+  {
+    "id": 3,
+    "furl": "juego",
+    "nombre": "Juego de cartas",
+    "descripcion": "El juego de cartas de tarot de Escuela Dev Rock.",
+    "img": "juego-cartas.jpg",
+    "url": "https://www.juegocartas.com/"
+  },
+  {
+    "id": 4,
+    "furl": "carrito1",
+    "nombre": "Carrito de compras 1",
+    "descripcion": "Carrito de compras es una plataforma de e-commerce que permite a los usuarios comprar productos en línea.",
+    "img": "carrito.jpg",
+    "url": "https://www.carrito.com/"
+  }
+]
